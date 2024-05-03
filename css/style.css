@@ -71,9 +71,13 @@ nav {
     flex-direction: row;
 }
 .flexContainer div {
-    width: 33%;
+    width: 1fr;
     padding: 10px;
     flex-direction: row;
+  }
+  .skillImg {
+    width: 200px;
+    height: 200px;
   }
 
   /* My Work section constructed using CSS grid */
