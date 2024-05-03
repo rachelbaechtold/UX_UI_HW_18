@@ -84,7 +84,6 @@ nav {
 .myWork {
     padding: 60px 30px;
     padding-top: 0;
-    background-color: #EBEBEB;
   }
   .workGrid {
     display: grid;
@@ -100,6 +99,10 @@ nav {
     max-width: 250px;
     margin: 0 auto;
     display: block;
+}
+.workImg {
+    width: 200px;
+    height: 200px;
 }
 .HSSPVimg {
     grid-area: HSSPVimg;
